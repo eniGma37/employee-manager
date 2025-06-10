@@ -8,7 +8,7 @@ public class Employee {
         this.name = name;
         this.department = department;
         this.salary = salary;
-    }
+    }aaaaaaaaaaaaaa
 
     // Getters
     public String getName() {
